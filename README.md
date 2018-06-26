@@ -1,0 +1,2 @@
+# 20questions
+Using Visual Studio, I was tasked using C# to create a game of 20 questions and expanded upon it by using windows forms to create a GUI into it. This program had to store data into a file named Bintree.txt and labeled each topic the user inserted. Stores and loads each property inserted by the user and recursively uses traversals to guess the user's person. Created a more cartoon-styled GUI theme to fit the age range of the people that would be playing.
